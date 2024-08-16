@@ -1,0 +1,8 @@
+
+//for installation of all libraries 
+pip install -r requirements.txt
+
+
+
+//for run the project 
+python mv.py
